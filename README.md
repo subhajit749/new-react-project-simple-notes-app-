@@ -1,1 +1,0 @@
-# new-react-project-simple-notes-app-
